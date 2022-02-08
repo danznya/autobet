@@ -1,4 +1,4 @@
-# Bustabit Scripts
+# JazaBet Scripts
 
 This repository documents <https://bustabit.com>'s
 autobetter / scripting system.
